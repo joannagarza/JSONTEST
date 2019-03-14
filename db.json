@@ -1,6 +1,6 @@
 {
-  "status": "fail",
-  "desc" : "no_cumple",
+  "status":"fail",
+  "desc":"no_cumple",
   "evaluacion":[ {
     "message": "fail"
   }]
